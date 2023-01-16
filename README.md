@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+my name is Yahdi I am a graduate of Binus University, currently I am very interested in data science and machine learning. my interest led me to learn and take data science course at rakamin academy.
+
+I'm currently working on Itialus Inovatif Solusi as ERP Consultant and I am very open to opportunities as data scientist.
+
+
 
 <!--
 **yahdiarif/yahdiarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
