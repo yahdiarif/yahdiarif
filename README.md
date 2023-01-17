@@ -1,4 +1,4 @@
-## Hello there
+## Hello there!!
 ### My name is Yahdi, I just started my journey in data
 - Graduated from **Binus University** as Accounting Information System
 - **Graduated Data Science**  Student from  [Data Science Bootcamp in Rakamin Academy](https://rakamin.com/)
