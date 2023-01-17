@@ -1,8 +1,9 @@
-### Hello there 👋
-
-my name is Yahdi I am a graduate of Binus University, currently I am very interested in data science and machine learning. my interest led me to learn and take data science course at rakamin academy.
-
-I'm currently working on Itialus Inovatif Solusi as ERP Consultant and I am very open to opportunities as data scientist.
+## Hello there
+### My name is Yahdi, I just started my journey in data
+- Graduated from **Binus University** as Accounting Information System
+- **Graduated Data Science**  Student from  [Data Science Bootcamp in Rakamin Academy](https://rakamin.com/)
+- **Interested in Data Scientist & Machine Learning**
+- **I am very open to opportunities as data scientist**
 
 
 
